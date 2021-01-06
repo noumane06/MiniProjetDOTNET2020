@@ -1,0 +1,11 @@
+C:\Users\Noumane agouzil\source\repos\MiniProjetDOTNET2020\EntityBiblio\bin\Debug\EntityBiblio.dll.config
+C:\Users\Noumane agouzil\source\repos\MiniProjetDOTNET2020\EntityBiblio\bin\Debug\EntityBiblio.dll
+C:\Users\Noumane agouzil\source\repos\MiniProjetDOTNET2020\EntityBiblio\bin\Debug\EntityBiblio.pdb
+C:\Users\Noumane agouzil\source\repos\MiniProjetDOTNET2020\EntityBiblio\bin\Debug\EntityFramework.dll
+C:\Users\Noumane agouzil\source\repos\MiniProjetDOTNET2020\EntityBiblio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Noumane agouzil\source\repos\MiniProjetDOTNET2020\EntityBiblio\bin\Debug\EntityFramework.xml
+C:\Users\Noumane agouzil\source\repos\MiniProjetDOTNET2020\EntityBiblio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Noumane agouzil\source\repos\MiniProjetDOTNET2020\EntityBiblio\obj\Debug\EntityBiblio.csprojAssemblyReference.cache
+C:\Users\Noumane agouzil\source\repos\MiniProjetDOTNET2020\EntityBiblio\obj\Debug\EntityBiblio.csproj.CopyComplete
+C:\Users\Noumane agouzil\source\repos\MiniProjetDOTNET2020\EntityBiblio\obj\Debug\EntityBiblio.dll
+C:\Users\Noumane agouzil\source\repos\MiniProjetDOTNET2020\EntityBiblio\obj\Debug\EntityBiblio.pdb
